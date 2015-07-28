@@ -1,0 +1,8 @@
+[28-Jul-2015 00:27:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/Users/Arjun/OneDrive/Git-html5/webdev-html5/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[28-Jul-2015 00:27:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/Users/Arjun/OneDrive/Git-html5/webdev-html5/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[28-Jul-2015 00:27:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/Users/Arjun/OneDrive/Git-html5/webdev-html5/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[28-Jul-2015 00:27:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/Users/Arjun/OneDrive/Git-html5/webdev-html5/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0

@@ -1,0 +1,20 @@
+2015-07-27 20:27:54 4540 [Note] Plugin 'FEDERATED' is disabled.
+2015-07-27 20:27:55 4540 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2015-07-27 20:27:55 4540 [Note] InnoDB: The InnoDB memory heap is disabled
+2015-07-27 20:27:55 4540 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2015-07-27 20:27:55 4540 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2015-07-27 20:27:55 4540 [Note] InnoDB: Not using CPU crc32 instructions
+2015-07-27 20:27:55 4540 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2015-07-27 20:27:55 4540 [Note] InnoDB: Completed initialization of buffer pool
+2015-07-27 20:27:55 4540 [Note] InnoDB: Highest supported file format is Barracuda.
+2015-07-27 20:27:59 4540 [Note] InnoDB: 128 rollback segment(s) are active.
+2015-07-27 20:28:00 4540 [Note] InnoDB: Waiting for purge to start
+2015-07-27 20:28:00 4540 [Note] InnoDB: 5.6.17 started; log sequence number 1625977
+2015-07-27 20:28:00 4540 [Warning] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: 805223ae-34bf-11e5-a57c-68172964378b.
+2015-07-27 20:28:00 4540 [Note] Server hostname (bind-address): '*'; port: 3306
+2015-07-27 20:28:00 4540 [Note] IPv6 is available.
+2015-07-27 20:28:00 4540 [Note]   - '::' resolves to '::';
+2015-07-27 20:28:00 4540 [Note] Server socket created on IP: '::'.
+2015-07-27 20:28:00 4540 [Note] Event Scheduler: Loaded 0 events
+2015-07-27 20:28:00 4540 [Note] wampmysqld: ready for connections.
+Version: '5.6.17'  socket: ''  port: 3306  MySQL Community Server (GPL)
